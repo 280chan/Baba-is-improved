@@ -1,0 +1,8 @@
+[levels]
+levelid=14
+
+[general]
+firstlevel=7level
+start=7level
+name=baba is improved
+
